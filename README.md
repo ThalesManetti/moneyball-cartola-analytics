@@ -139,9 +139,25 @@ Modelo **LightGBM** para previsão de pontuação por rodada:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots do Dashboard
 
-> *Em breve — prints do dashboard serão adicionados após a próxima rodada.*
+**Capa**
+![Capa](assets/images/MoneyBall-1.png)
+
+---
+
+**Página 1 — Análise de Quadrantes**
+![Análise de Quadrantes](assets/images/MoneyBall-2.png)
+
+---
+
+**Página 2 — Top Performers**
+![Top Performers](assets/images/MoneyBall-3.png)
+
+---
+
+**Página 3 — Análise por Clubes**
+![Análise por Clubes](assets/images/MoneyBall-4.png)
 
 ---
 
@@ -167,4 +183,3 @@ BI / DAX          →  21 medidas base + 15 medidas temporais
 **Thales Manetti** · [LinkedIn](https://www.linkedin.com/in/thalesmanetti/) · [Portfólio](https://thalesmanetti.github.io)
 
 </div>
-
