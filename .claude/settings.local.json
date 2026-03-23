@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(python:*)",
+      "Bash(jupyter kernelspec:*)",
+      "Bash(jupyter notebook:*)",
+      "Bash(conda install:*)",
+      "Bash(C:/Users/Thales/anaconda3/python.exe -m pip install:*)",
+      "Bash(ls -la \"d:\\\\football analytics project\\\\src\\\\utils\"\" 2>&1 || dir \"d:football analytics projectsrcutils\"\")",
+      "Bash(dir:*)",
+      "Bash(pip install:*)",
+      "Bash(node --version:*)",
+      "Bash(npx --version)",
+      "Bash(conda clean:*)",
+      "Bash(npx:*)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "mcp__jupyter__execute_code"
+    ]
+  }
+}
